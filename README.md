@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a philosopher by training currently working in social studies of science and technology.
+Here you will find repositories of my bibliometric research.
+
 <!--
 **agustin-mauro/agustin-mauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
